@@ -15,3 +15,10 @@ a. Jika pengguna memilih "y" (ya), data baru akan diminta kembali dan ditambahka
 b. Jika pengguna memilih "t" (tidak), loop berhenti dan program akan menampilkan tabel nilai akhir.
 
 Program akan menampilkan semua data mahasiswa beserta nilai akhirnya dalam bentuk tabel.
+
+# Flowchart
+![Teks Alternatif](flowchartp6.png)
+
+# Screenshot
+![Teks Alternatif](p6ss2.png)
+![Teks Alternatif](p6ss1.png)
